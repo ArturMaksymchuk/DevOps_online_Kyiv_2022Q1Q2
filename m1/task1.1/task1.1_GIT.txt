@@ -1,0 +1,15 @@
+c0f5a77 HEAD@{0}: merge develop: Fast-forward
+b0540c1 HEAD@{1}: checkout: moving from develop to master
+c0f5a77 HEAD@{2}: commit (merge): resolve merge conflict
+801b4f0 HEAD@{3}: merge styles: Fast-forward
+41a0ad9 HEAD@{4}: checkout: moving from styles to develop
+801b4f0 HEAD@{5}: commit: add style in index.html
+2958139 HEAD@{6}: commit: add style
+41a0ad9 HEAD@{7}: checkout: moving from develop to styles
+41a0ad9 HEAD@{8}: checkout: moving from images to develop
+e52f976 HEAD@{9}: commit: add images in index html
+5624740 HEAD@{10}: commit: create folder images with some images inside it
+41a0ad9 HEAD@{11}: checkout: moving from develop to images
+41a0ad9 HEAD@{12}: commit: create index.html file
+b0540c1 HEAD@{13}: checkout: moving from master to develop
+b0540c1 HEAD@{14}: commit (initial): create readme.txt file
