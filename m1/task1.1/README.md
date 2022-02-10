@@ -34,6 +34,8 @@ git push origin --all
 git reflog
 ```
 Final site
+
+
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/task1/2022-02-10_20_22_13-BEARS.png?)
 
 
