@@ -43,10 +43,10 @@
 
 ## PART 3. WORK WITH VAGRANT
 
-![]( )
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m2/task2.1/2022-02-17%2015_28_23-Greenshot.png )
 
-![]( )
+![]( https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m2/task2.1/2022-02-17%2015_31_53-MINGW64__c_Users_Artur_vagrant_test.png)
 
-![]( )
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m2/task2.1/004.png)
 
 ![]( )
