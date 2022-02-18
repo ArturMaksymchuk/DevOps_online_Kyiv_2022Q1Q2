@@ -24,7 +24,29 @@
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m2/task2.1/2022-02-14%2021_41_35-Window.png)
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m2/task2.1/003.png)
+
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m2/task2.1/2022-02-16%2018_07_47-.png )
+
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m2/task2.1/2022-02-16%2018_15_24-.png )
+
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m2/task2.1/2022-02-16%2018_46_59-.png )
+
+![]( https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m2/task2.1/2022-02-16%2018_49_39-.png)
+
+| Mode  |VM>Host   | VM<Host  | VM1-VM2  | VM>Net/LAN  |  VM<Net/LAN |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| NAT  |  + |  -  | -  | +  |-   |
+| Bridged  |  + |  + |  + |  + |  + |
+|  Internal |  - | -  | +  | -  |  - |
+| Host-only | +  |  + |  + |  - |  - |
 
 ## PART 3. WORK WITH VAGRANT
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![]( )
+
+![]( )
+
+![]( )
+
+![]( )
