@@ -1,5 +1,7 @@
 TASK3.2
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/M_3/Task_3.2/0.png)
+
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/M_3/Task_3.2/6.png)
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/M_3/Task_3.2/6-1.png)
