@@ -24,11 +24,11 @@ Part 1
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/1-6.2.png)
 
-7) * Determine the last logon time for all users. Tip: You should read the documentation for the finger command.
+7) Determine the last logon time for all users. Tip: You should read the documentation for the finger command.
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/1-7.png)
 
-8) * List the contents of the home directory using the ls command, define its files and directories. Hint: Use the help system to familiarize yourself with the ls command.
+8) List the contents of the home directory using the ls command, define its files and directories. Hint: Use the help system to familiarize yourself with the ls command.
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/1-8.png)
 
