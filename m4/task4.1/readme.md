@@ -124,6 +124,7 @@ For example
 
 13) What are the types of devices and how to determine the type of device? Give examples.
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-13.png)
 
 14) How to determine the type of file in the system, what types of files are there?
 
