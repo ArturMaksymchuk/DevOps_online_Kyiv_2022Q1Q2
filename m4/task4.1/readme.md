@@ -110,6 +110,7 @@ For example
 
 9) Count the number of lines containing a given sequence of characters in a given file.
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-9.png)
 
 10) Using the find command, find all files in the /etc directory containing the host character sequence.
 
