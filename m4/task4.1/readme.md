@@ -4,12 +4,26 @@ Part 1
 
 1) Log in to the system as root (or sudo-er).
 2) Use the passwd command to change the password. Examine the basic parameters of the command. What system file does it change *?
+
+passwd change /etc/shadow file
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/1-1-2.png)
  
 3) Determine the users registered in the system, as well as what commands they execute. What additional information can be gleaned from the command execution?
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/1-3.png)
 
+For example
+
+artur:x:1000:1000:Artur,15,555-22-33,555-33-55:/home/artur:/bin/bash
+  |   |   |    |    |                              |            |
+  1   2   3    4    5                              6            7
+     1- username
+     2- password (x-password exist) 
+     3- uid - unique identifier of the user within the system
+     4- gid unique identifier of the group within the system to which the user belongs
+     5- uid comments (Name,office number and phone,home phone)
+     6- user's home directory
+     7- program name the user's command interpreter
 4) Change personal information about yourself.
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/1-4.png)
