@@ -1,6 +1,6 @@
-TASK 4.1
+# TASK 4.1
 
-Part 1
+## Part 1
 
 1) Log in to the system as root (or sudo-er).
 2) Use the passwd command to change the password. Examine the basic parameters of the command. What system file does it change *?
@@ -50,7 +50,7 @@ For example
 
 
 
-Part 2
+## Part 2
 
 
 1) Examine the tree command. Master the technique of applying a template, for example, display all files that contain a character c, or files that contain a specific sequence of characters. List subdirectories of the root directory up to and including the second nesting level.
