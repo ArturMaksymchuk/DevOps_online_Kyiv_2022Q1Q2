@@ -14,16 +14,17 @@ passwd change /etc/shadow file
 
 For example
 
-artur:x:1000:1000:Artur,15,555-22-33,555-33-55:/home/artur:/bin/bash
+#### artur:x:1000:1000:Artur,15,555-22-33,555-33-55:/home/artur:/bin/bash  =
+#### username: pswd : uid : gid: uid comments: directory: shell
   |   |   |    |    |                              |            |
   1   2   3    4    5                              6            7
-     1- username
-     2- password (x-password exist) 
-     3- uid - unique identifier of the user within the system
-     4- gid unique identifier of the group within the system to which the user belongs
-     5- uid comments (Name,office number and phone,home phone)
-     6- user's home directory
-     7- program name the user's command interpreter
+    #### 1- username
+    #### 2- password (x-password exist) 
+    #### 3- uid - unique identifier of the user within the system
+    #### 4- gid unique identifier of the group within the system to which the user belongs
+    #### 5- uid comments (Name,office number and phone,home phone)
+    #### 6- user's home directory
+    #### 7- program name the user's command interpreter
 4) Change personal information about yourself.
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/1-4.png)
