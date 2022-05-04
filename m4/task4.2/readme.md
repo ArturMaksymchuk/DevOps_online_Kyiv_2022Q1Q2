@@ -101,5 +101,6 @@
 17) What file attributes should be present in the command script?
 
 File must have x(execute) permision.
+
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/17.png)
 
