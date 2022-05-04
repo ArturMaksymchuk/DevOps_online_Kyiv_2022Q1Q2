@@ -46,6 +46,8 @@
 
 7) What is skell_dir? What is its structure?
 
+#### The /etc/skel directory contains files and directories that are automatically copied over to a new user’s home directory when such a user is created.
+
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/7.png)
 
 8) How to remove a user from the system (including his mailbox)?
