@@ -136,9 +136,20 @@ For example
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-13.png)
 
+#### Types of devices:
+#### - console devices;
+#### - Hard/Floppy/others disks devices;
+#### - others devices...
+
 14) How to determine the type of file in the system, what types of files are there?
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-14.png)
+
+#### File types:
+#### files of physical devices;
+#### named pipes;
+#### sockets;
+#### links.
 
 15) * List the first 5 directory files that were recently accessed in the /etc directory.
 
