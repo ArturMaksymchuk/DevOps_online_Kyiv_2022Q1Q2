@@ -94,9 +94,11 @@
 
 15) What is an example of octal representation of access rights? Describe the umask command.
 
- |Octal Value | File Permissions Set| Permissions Description |
- |0|---|No permissions |
- | 
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 ####
 ####
 ####
