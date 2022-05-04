@@ -83,8 +83,11 @@
 
 13) What is the sequence of defining the relationship between the file and the user?
 
-####
-####
+#### 1- check owner permissions, if user not owner
+#### 2- check group permissions, if user not consist in this group
+#### 3- check others permissions.
+#### 4- check spesial permissions.
+
 
 14) What commands are used to change the owner of a file (directory), as well as the mode of access to the file? Give examples, demonstrate on the terminal.
 
