@@ -94,6 +94,8 @@
 
 15) What is an example of octal representation of access rights? Describe the umask command.
 
+
+
 | Octal Value   | File Permissions Set | Permissions Description |
 | :------------: |:---------------:| :-----:|
 | 0   | 	--- | No permissions  |
@@ -105,14 +107,8 @@
 | 6   | rw- | Read and write permissions  |
 | 7   | rwx       |   Read, write, and execute permissions  |
 
-####
-####
-####
-####
-####
-####
-####
-####
+#### Umask, or the user file-creation mode, is a Linux command that is used to assign the default file permission sets for newly created folders and files.
+#### The only umask parameter is an octal number that specifies the attributes that should not be set on a new file (666) or directory (777).
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/15.png)
 
