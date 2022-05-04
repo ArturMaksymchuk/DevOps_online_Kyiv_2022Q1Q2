@@ -96,9 +96,10 @@
 
 16) Give definitions of sticky bits and mechanism of identifier substitution. Give an example of files and directories with these attributes.
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/16.png)
 
 17) What file attributes should be present in the command script?
 
-
+File must have x(execute) permision.
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/17.png)
 
