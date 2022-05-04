@@ -94,9 +94,9 @@
 
 15) What is an example of octal representation of access rights? Describe the umask command.
 
-#### |Octal Value | File Permissions Set| Permissions Description |
-#### |0|---|No permissions |
-#### | 
+ |Octal Value | File Permissions Set| Permissions Description |
+ |0|---|No permissions |
+ | 
 ####
 ####
 ####
