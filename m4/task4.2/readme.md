@@ -96,14 +96,14 @@
 
 | Octal Value   | File Permissions Set | Permissions Description |
 | :------------: |:---------------:| :-----:|
-| 0   | some wordy text | No permissions  |
-| 1   | centered        |   Execute permission only  |
-| 2   | are neat        |    $1 |
-| 3   | some wordy text | $1600 |
-| 4   | centered        |   $12 |
-| 5   | are neat        |    $1 |
-| 6   | some wordy text | $1600 |
-| 7   | centered        |   $12 |
+| 0   | 	--- | No permissions  |
+| 1   | --x        |   Execute permission only  |
+| 2   | -w-        |    Write permission only |
+| 3   | -wx | Write and execute permissions |
+| 4   | r--        |  Read permission only   |
+| 5   | r-x       |    Read and execute permissions  |
+| 6   | rw- | Read and write permissions  |
+| 7   | rwx       |   Read, write, and execute permissions  |
 
 ####
 ####
