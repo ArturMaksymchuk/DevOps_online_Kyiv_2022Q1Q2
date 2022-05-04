@@ -72,7 +72,6 @@ For example
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-4.1.png)
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-4.2.png)
-![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-4.3.png)
 
 #### drwx------ 14 artur a_group 4096 Apr 27 13:53 .config
 #### drwxr-xr-x  2 artur a_group 4096 Apr 12 21:18 Desktop
