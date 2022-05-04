@@ -58,11 +58,21 @@
 
 10) How to remove a user's password and provide him with a password-free login for subsequent password change?
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/10.png)
 
 11) Display the extended format of information about the directory, tell about the information columns displayed on the terminal.
 
+#### drwx------ 14 artur a_group 4096 Apr 27 13:53 .config
+#### drwxr-xr-x  2 artur a_group 4096 Apr 12 21:18 Desktop
+#### drwxr-xr-x : d - file type(in this case d-directory); rwx- owner permissions; r-x- group permissions; r-x- others permissions  
+#### 2 - number of links
+#### artur - name owner
+#### a_group - group owner
+#### 4096 - file size in bytes
+#### Apr 12 21:18 - date of last modification
+#### Desktop - file name
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/11.png)
 
 12) What access rights exist and for whom (i. e., describe the main roles)? Briefly describe the acronym for access rights.
 
