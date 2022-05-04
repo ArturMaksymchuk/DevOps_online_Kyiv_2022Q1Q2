@@ -76,11 +76,15 @@
 
 12) What access rights exist and for whom (i. e., describe the main roles)? Briefly describe the acronym for access rights.
 
-
+#### rwxr-xr-- : rwx - owner permissions; r-x - group permissions; r-- - others permissions
+####  - - no access; r- access to read file(open directory);
+#### w- write or change file; x- execute acces  
+#### s - SUID bit ; t or T - sticky bit
 
 13) What is the sequence of defining the relationship between the file and the user?
 
-
+####
+####
 
 14) What commands are used to change the owner of a file (directory), as well as the mode of access to the file? Give examples, demonstrate on the terminal.
 
