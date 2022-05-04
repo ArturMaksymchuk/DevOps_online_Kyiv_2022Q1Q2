@@ -128,9 +128,11 @@ For example
 
 11) List all objects in /etc that contain the ss character sequence. How can I duplicate a similar command using a bunch of grep?
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-11.png)
 
 12) Organize a screen-by-screen print of the contents of the /etc directory. Hint: You must use stream redirection operations.
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-12.png)
 
 13) What are the types of devices and how to determine the type of device? Give examples.
 
