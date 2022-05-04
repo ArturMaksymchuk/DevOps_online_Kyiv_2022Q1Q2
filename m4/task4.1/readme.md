@@ -74,6 +74,17 @@ For example
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-4.2.png)
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-4.3.png)
 
+#### drwx------ 14 artur a_group 4096 Apr 27 13:53 .config
+#### drwxr-xr-x  2 artur a_group 4096 Apr 12 21:18 Desktop
+#### drwxr-xr-x : d - file type(in this case d-directory); rwx- owner permissions; r-x- group permissions; r-x- others permissions  
+#### 2 - number of links
+#### artur - name owner
+#### a_group - group owner
+#### 4096 - file size in bytes
+#### Apr 12 21:18 - date of last modification
+#### Desktop - file name
+
+
 5) Perform the following sequence of operations:
 - create a subdirectory in the home directory;
 - in this subdirectory create a file containing information about directories located in the root directory (using I/O redirection operations);
