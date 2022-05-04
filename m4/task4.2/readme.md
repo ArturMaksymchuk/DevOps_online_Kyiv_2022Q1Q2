@@ -6,11 +6,21 @@
 
 2) What are the uid ranges? What is UID? How to define it?
 
+#### UID is a number assigned by Linux to each user on the system. 
+#### UID ranges:
+#### 0 (zero) is reserved for the root;
+#### 1–99 are reserved for other predefined accounts;
+#### 100–999 are reserved by system for administrative and system accounts/groups;
+#### 1000–10000 are occupied by applications account;
+#### 10000+ are used for user accounts.
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/2.png)
 
 3) What is GID? How to define it?
 
+#### GID is a unique identifier of the group within the system to which the user belongs.
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/3.png)
 
 4) How to determine belonging of user to the specific group?
 
