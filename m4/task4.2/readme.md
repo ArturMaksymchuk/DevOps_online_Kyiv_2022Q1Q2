@@ -88,12 +88,23 @@
 #### 3- check others permissions.
 #### 4- check spesial permissions.
 
-
 14) What commands are used to change the owner of a file (directory), as well as the mode of access to the file? Give examples, demonstrate on the terminal.
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/14.png)
 
 15) What is an example of octal representation of access rights? Describe the umask command.
+
+#### |Octal Value | File Permissions Set| Permissions Description |
+#### |0|---|No permissions |
+#### | 
+####
+####
+####
+####
+####
+####
+####
+####
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/15.png)
 
