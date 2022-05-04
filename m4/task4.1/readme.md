@@ -153,5 +153,6 @@ For example
 
 15) * List the first 5 directory files that were recently accessed in the /etc directory.
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/2-15.png)
 
 
