@@ -1,6 +1,14 @@
 # TASK 4.2
 
+
+
 1) Analyze the structure of the /etc/passwd and /etc/group file, what fields are present in it, what users exist on the system? Specify several pseudo-users, how to define them?
+
+#### passwd structure - username: pswd : uid : gid: uid comments: directory: shell
+#### group structure - group_name:password:group_id:list
+#### /etc/passwd present users and info about it.
+#### /etc/group  precent groups , info about it and users in groups.
+
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/1.png)
 
@@ -24,27 +32,29 @@
 
 4) How to determine belonging of user to the specific group?
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/4.png)
 
 5) What are the commands for adding a user to the system? What are the basic parameters required to create a user?
 
+#### Name of new user is basic parametr.
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/5.png)
 
 6) How do I change the name (account name) of an existing user?
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/6.png)
 
 7) What is skell_dir? What is its structure?
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/7.png)
 
 8) How to remove a user from the system (including his mailbox)?
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/8.png)
 
 9) What commands and keys should be used to lock and unlock a user account?
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task2/9.png)
 
 10) How to remove a user's password and provide him with a password-free login for subsequent password change?
 
@@ -77,4 +87,4 @@
 17) What file attributes should be present in the command script?
 
 
-![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task1/1-3.png)
+
