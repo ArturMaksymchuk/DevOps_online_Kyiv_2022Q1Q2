@@ -22,7 +22,7 @@
 
 4. Print information about the processor (its type, supported technologies, etc.).
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/4.png)
 
 5. Use the ps command to get information about the process. The information should be as follows: the owner of the process, the arguments with which the process was launched for execution, the group owner of this process, etc.
 
