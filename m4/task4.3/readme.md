@@ -42,6 +42,8 @@
 
 9. What utilities can be used to analyze existing running tasks (by analyzing the help for the ps command)?
 
+#### htop
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/9.png)
 
 
 10. What information does top command display?
