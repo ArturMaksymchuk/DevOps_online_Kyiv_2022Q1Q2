@@ -5,7 +5,12 @@
 
 1. How many states could has a process in Linux?
 
-####
+#### There are five Linux process states: 
+#### - created
+#### - ready
+#### - running
+#### - waiting
+#### - terminated
 
 2. Examine the pstree command. Make output (highlight) the chain (ancestors) of the current process.
 
