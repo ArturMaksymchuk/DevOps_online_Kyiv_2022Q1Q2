@@ -14,7 +14,7 @@
 
 2. Examine the pstree command. Make output (highlight) the chain (ancestors) of the current process.
 
-![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/1-2.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/2.png)
 
 3. What is a proc file system?
 
@@ -26,11 +26,11 @@
 
 5. Use the ps command to get information about the process. The information should be as follows: the owner of the process, the arguments with which the process was launched for execution, the group owner of this process, etc.
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/5.png)
 
 6. How to define kernel processes and user processes?
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/6.png)
 
 7. Print the list of processes to the terminal. Briefly describe the statuses of the processes. What condition are they in, or can they be arriving in?
 
