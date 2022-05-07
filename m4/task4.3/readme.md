@@ -56,11 +56,11 @@
 
 10. What information does top command display?
 
-
+#### The top command can display system summary information. There are  PID, users , CPU and memory usage ,priority and other information.
 
 11. Display the processes of the specific user using the top command.
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/11.png)
 
 12. What interactive commands can be used to control the top command? Give a couple of examples.
 
