@@ -37,16 +37,21 @@
 
 7. Print the list of processes to the terminal. Briefly describe the statuses of the processes. What condition are they in, or can they be arriving in?
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/7.1.png)
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/7.2.png)
 
 8. Display only the processes of a specific user.
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/8.png)
 
 9. What utilities can be used to analyze existing running tasks (by analyzing the help for the ps command)?
 
-#### htop
-![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/9.png)
+#### top
+
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/9.1.png)
+
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/9.2.png)
 
 
 10. What information does top command display?
