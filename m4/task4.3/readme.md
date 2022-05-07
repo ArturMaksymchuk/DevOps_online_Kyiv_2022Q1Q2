@@ -64,6 +64,22 @@
 
 12. What interactive commands can be used to control the top command? Give a couple of examples.
 
+#### Sort by %MEM - M 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/12.1.png)
+
+#### Sort by %CPU - P 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/12.2.png)
+
+#### Change display units - E - in top values; e - in process list
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/12.3.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/12.4.png)
+
+#### - Change Text Color - Z
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/12.5.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/12.6.png)
+
+#### - Limit Process Number - n [value]. For example - n 5
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/12.7.png)
 
 
 13. Sort the contents of the processes window using various parameters (for example, the amount of processor time taken up, etc.)
