@@ -96,6 +96,12 @@
 
 15. Can I change the priority of a process using the top command? If so, how?
 
+#### Change priority: r > [proces value] > [value to change]
+
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/15.1.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/15.2.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/15.3.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/15.4.png)
 
 
 16. Examine the kill command. How to send with the kill command process control signal? Give an example of commonly used signals.
