@@ -83,8 +83,12 @@
 
 
 13. Sort the contents of the processes window using various parameters (for example, the amount of processor time taken up, etc.)
+#### Sort by %MEM - M, sort by %CPU - P(see p.12)
+#### Sort by TIME+ - T 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/13.1.png)
 
-
+#### Sort by PID - N 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/13.2.png)
 
 14. Concept of priority, what commands are used to set priority?
 
