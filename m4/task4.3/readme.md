@@ -30,6 +30,9 @@
 
 6. How to define kernel processes and user processes?
 
+#### Kernel processes with square brackets. Normal processes is without square brackets.
+
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/6-1.png)
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/6.png)
 
 7. Print the list of processes to the terminal. Briefly describe the statuses of the processes. What condition are they in, or can they be arriving in?
