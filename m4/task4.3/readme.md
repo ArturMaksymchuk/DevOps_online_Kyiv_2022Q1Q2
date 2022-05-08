@@ -112,7 +112,8 @@
 
 16. Examine the kill command. How to send with the kill command process control signal? Give an example of commonly used signals.
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/16.1.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/16.2.png)
 
 17. Commands jobs, fg, bg, nohup. What are they for? Use the sleep, yes command to demonstrate the process control mechanism with fg, bg.
 
