@@ -92,7 +92,11 @@
 
 14. Concept of priority, what commands are used to set priority?
 
-
+#### Priority means what task runing early.
+#### To change prioryty use comand renaice and nice to start program with special priority.
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/14.1.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/14.2.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/14.3.png)
 
 15. Can I change the priority of a process using the top command? If so, how?
 
