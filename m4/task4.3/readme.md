@@ -118,4 +118,7 @@
 17. Commands jobs, fg, bg, nohup. What are they for? Use the sleep, yes command to demonstrate the process control mechanism with fg, bg.
 
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/17.2.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/17.1.png)
+
 
