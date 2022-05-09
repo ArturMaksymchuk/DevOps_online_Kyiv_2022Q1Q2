@@ -18,7 +18,9 @@
 
 3. What is a proc file system?
 
+####  The proc filesystem (procfs) is a special filesystem i that presents information about processes and other system information in a hierarchical file-like structure. It providing a more convenient and standardized method for dynamically accessing process data .
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/3.png)
 
 4. Print information about the processor (its type, supported technologies, etc.).
 
