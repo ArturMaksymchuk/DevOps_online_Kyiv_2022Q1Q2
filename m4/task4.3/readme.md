@@ -131,18 +131,24 @@
 Windows operating system. (Description of the expected result of the commands +screenshots:
 command – result should be presented)
 
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/2-1.1.png)
 
 2. Implement basic SSH settings to increase the security of the client-server connection (at least)
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/2-2.png)
 
 3. List the options for choosing keys for encryption in SSH. Implement 3 of them.
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/2-3.1.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/2-3.2.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/2-3.3.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/2-3.4.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/2-3.5.png)
 
 4. Implement port forwarding for the SSH client from the host machine to the guest Linux virtual machine behind NAT.
 
-
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/2-4.1.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m4/task3/2-4.2.png)
 
 5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the server using ssh, telnet, rlogin. Analyze the result.
 
