@@ -7,19 +7,12 @@ The code that performs the functionality of each of the subtasks must be placed 
 
 <details>
   <summary>script</summary>
-  ```bash
-  #!/bin/bash
-
+#!/bin/bash
 dir1=$1
- 
- dir2=$2
- 
+dir2=$2
 function rmold(){
- 
 for i in $(diff $1 $2  |awk -v var="$2:" '(var==$3) {print $4}')
- 
 do
- 
 if [ -f $2/$i  ] ; then
   if [ $i != "backup.log" ] ; then
 rm  -f $2/$i
@@ -47,10 +40,6 @@ done
 
 copynew $dir1 $dir2
 rmold $dir1 $dir2.
-```  
-  ```javascript
-  console.log("I'm a code block!");
-  ```
   
 </details>
    
