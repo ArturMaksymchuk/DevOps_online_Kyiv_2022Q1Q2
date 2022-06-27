@@ -2,7 +2,7 @@
 
 1. Write easy program, which will display current date and time.
 
-
+[Program 1](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/1.py)
 <details>
   <summary>Program 1</summary>
   
@@ -24,6 +24,8 @@ print(datetime.now())
  
     Tuple: (‘1’, ‘2’, ‘7’, ‘43’, ‘9’)
 
+[Program 2](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/2.py)
+
 <details>
   <summary>Program 2</summary>
   
@@ -39,6 +41,8 @@ print(Tuple)
 
 3. Write python program, which will ask file name. File should be read, and only even
 lines should be shown.
+
+[Program 3](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/3.py)
 
 <details>
   <summary>Program 3</summary>
@@ -60,6 +64,8 @@ for line in filee:
 4. Write python program, which should read html document, parse it, and show it’s
 title.
 
+[Program 4](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/4.py)
+
 <details>
   <summary>Program 4</summary>
   
@@ -78,6 +84,8 @@ print("Title of html document:",soup.find("title").get_text())
 5. Write python program, which will parse user’s text, and replace some emotions with
 emoji’s (Look: pip install emoji)
 
+[Program 5](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/5.py)
+
 <details>
   <summary>Program 5</summary>
   
@@ -93,6 +101,8 @@ print(emoji.emojize(text))
 
 6. Write program, that will show basic PC information (OS, RAM amount, HDD’s, and
 etc.)
+
+[Program 6](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/6.py)
 
 <details>
   <summary>Program 6</summary>
