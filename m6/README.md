@@ -4,6 +4,7 @@ A. Create a script that uses the following keys:
 3. The --target key displays a list of open system TCP ports.
 The code that performs the functionality of each of the subtasks must be placed in a separate function
 
+[script](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m6/a.sh)
 
 <details>
   <summary>script</summary>
