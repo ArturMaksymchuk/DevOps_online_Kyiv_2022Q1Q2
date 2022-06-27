@@ -4,13 +4,10 @@ A. Create a script that uses the following keys:
 3. The --target key displays a list of open system TCP ports.
 The code that performs the functionality of each of the subtasks must be placed in a separate function
 
-# try_repo
-PART 1. HYPERVISORS
- 
 
 <details>
   <summary>script</summary>
- ``` 
+  ```bash
   #!/bin/bash
 
 dir1=$1
