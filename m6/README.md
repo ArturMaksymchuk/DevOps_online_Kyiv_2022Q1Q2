@@ -6,11 +6,7 @@ The code that performs the functionality of each of the subtasks must be placed 
 
 [script](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m6/a.sh)
 
-<details>
-  <summary>script</summary>
 
-  
-</details>
    
 
 B. Using Apache log example create a script to answer the following questions:
