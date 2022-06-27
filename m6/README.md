@@ -31,6 +31,8 @@ In case of adding new or deleting old files, the script must add a corresponding
 [script](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m6/c.sh)
 
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m6/1.png)
+
+
 ![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m6/2.png)
 
 
