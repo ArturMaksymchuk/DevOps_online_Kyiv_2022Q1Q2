@@ -8,39 +8,7 @@ The code that performs the functionality of each of the subtasks must be placed 
 
 <details>
   <summary>script</summary>
-#!/bin/bash
-dir1=$1
-dir2=$2
-function rmold(){
-for i in $(diff $1 $2  |awk -v var="$2:" '(var==$3) {print $4}')
-do
-if [ -f $2/$i  ] ; then
-  if [ $i != "backup.log" ] ; then
-rm  -f $2/$i
-echo "[ $(date) ] delete file $i"  >> $2/backup.log
-   fi
-elif [ -d $2/$i ] ; then
-rm  -r $2/$i
-echo "[ $(date) ] delete directory $i"  >>  $2/backup.log
-fi
-done
-}
 
-function copynew(){
-for i in $(diff $1 $2  |awk -v var="$1:" '(var==$3) {print $4}')
-do
-if [ -f $1/$i ] ; then
-cp $1/$i $2
-echo "[ $(date) ] create file $i"  >> $2/backup.log
-elif  [ -d $1/$i ] ; then
-cp -r $1/$i $2
-echo "[ $(date) ] create directory $i"   >> $2/backup.log
-fi
-done
-}
-
-copynew $dir1 $dir2
-rmold $dir1 $dir2.
   
 </details>
    
@@ -53,9 +21,21 @@ B. Using Apache log example create a script to answer the following questions:
 5. What time did site get the most requests?
 6. What search bots have accessed the site? (UA + IP)
 
-
+[script](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m6/b.sh)
 
 C. Create a data backup script that takes the following data as parameters:
 1. Path to the syncing directory.
 2. The path to the directory where the copies of the files will be stored.
 In case of adding new or deleting old files, the script must add a corresponding entry to the log file indicating the time, type of operation and file name. [The command to run the script must be added to crontab with a run frequency of one minute]
+
+[script](https://github.com/ArturMaksymchuk/DevOps_online_Kyiv_2022Q1Q2/blob/master/m6/c.sh)
+
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m6/1.png)
+![](https://github.com/ArturMaksymchuk/materialsEpam/blob/master/m6/2.png)
+
+
+
+
+
+
+
