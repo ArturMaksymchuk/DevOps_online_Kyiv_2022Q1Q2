@@ -2,7 +2,8 @@
 
 #TARGET function
 function target(){
-sudo netstat -tlpn |grep listen -i| awk '{print$1,$4}'
+echo "Local Address:Port "
+ss -nlt | awk 'NR>1{print$4}'
 }
 
 #ALL function
